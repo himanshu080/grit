@@ -1,2 +1,2 @@
 # grit
-habit tracker
+habit tracker to track daily tasks
